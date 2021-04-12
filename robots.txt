@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /search
+
+Allow: /
+
+
+Sitemap: https://702.vercel.app/sitemap.xml
+
+Sitemap: https://702.vercel.app/sitemap2.xml
